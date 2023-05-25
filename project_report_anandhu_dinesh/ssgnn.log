@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.4) (preloaded format=pdflatex 2023.5.20)  25 MAY 2023 11:56
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.4) (preloaded format=pdflatex 2023.5.20)  25 MAY 2023 12:18
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -415,24 +415,24 @@ LaTeX Warning: Label `fig:logo.png' multiply defined.
 )
 \openout1 = `ssgnn.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 39.
-LaTeX Font Info:    ... okay on input line 39.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 39.
-LaTeX Font Info:    ... okay on input line 39.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 39.
-LaTeX Font Info:    ... okay on input line 39.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 39.
-LaTeX Font Info:    ... okay on input line 39.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 39.
-LaTeX Font Info:    ... okay on input line 39.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 39.
-LaTeX Font Info:    ... okay on input line 39.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 39.
-LaTeX Font Info:    ... okay on input line 39.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 39.
-LaTeX Font Info:    ... okay on input line 39.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 39.
-LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -485,7 +485,7 @@ ii
 \everyMPtoPDFconversion=\toks28
 )
 \c@lstlisting=\count302
-Package hyperref Info: Link coloring OFF on input line 39.
+Package hyperref Info: Link coloring OFF on input line 34.
  (ssgnn.out) (ssgnn.out)
 \@outlinefile=\write3
 \openout3 = `ssgnn.out'.
@@ -493,36 +493,37 @@ Package hyperref Info: Link coloring OFF on input line 39.
 
 
 LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <22> not available
-(Font)              size <20.74> substituted on input line 43.
+(Font)              size <20.74> substituted on input line 38.
 
 
 LaTeX Font Warning: Font shape `OT1/cmr/bx/n' in size <22> not available
-(Font)              size <20.74> substituted on input line 43.
+(Font)              size <20.74> substituted on input line 38.
 
 
 LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <15> not available
-(Font)              size <14.4> substituted on input line 44.
+(Font)              size <14.4> substituted on input line 39.
 
 
 LaTeX Font Warning: Font shape `OT1/cmr/bx/n' in size <15> not available
-(Font)              size <14.4> substituted on input line 45.
+(Font)              size <14.4> substituted on input line 40.
 
 <logo.png, id=195, 60.7068pt x 59.62276pt>
 File: logo.png Graphic file (type png)
 <use logo.png>
-Package pdftex.def Info: logo.png  used on input line 49.
+Package pdftex.def Info: logo.png  used on input line 44.
 (pdftex.def)             Requested size: 213.39568pt x 209.59706pt.
 
 LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <20> not available
-(Font)              size <20.74> substituted on input line 58.
+(Font)              size <20.74> substituted on input line 53.
 
 
 LaTeX Font Warning: Font shape `OT1/cmr/bx/n' in size <20> not available
-(Font)              size <20.74> substituted on input line 58.
+(Font)              size <20.74> substituted on input line 53.
 
 [1
 
 {C:/Users/vishn/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map} <./logo.png>]
+ [2]
 File: logo.png Graphic file (type png)
 <use logo.png>
 Package pdftex.def Info: logo.png  used on input line 81.
@@ -538,151 +539,163 @@ Overfull \hbox (88.49025pt too wide) in paragraph at lines 117--137
 $[]$ $[]$ 
  []
 
-[2]
+[3] [4]
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.155     \end{abstract}
+l.161     \end{abstract}
+                         [1]
+pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.168   \tableofcontents
                          [1] (ssgnn.toc
-pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
+pdfTeX warning (ext4): destination with the same identifier (name{page.2}) has 
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.27 ...numberline {5.3}React.js}{12}{section.5.3}
-                                                  % [1
+l.27 ...numberline {5.3}React.js}{13}{section.5.3}
+                                                  % [2
 
 ])
 \tf@toc=\write4
 \openout4 = `ssgnn.toc'.
 
 
-pdfTeX warning (ext4): destination with the same identifier (name{page.2}) has 
+pdfTeX warning (ext4): destination with the same identifier (name{page.3}) has 
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.162 \chapter
-              {Introduction} [2]
+l.171 \chapter
+              {Introduction} [3]
 Chapter 1.
-[3
 
-] [4]
+pdfTeX warning (ext4): destination with the same identifier (name{page.4}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.182 
+       [4
+
+] [5]
 Chapter 2.
-[5
+[6
 
-] [6]
+] [7]
 Chapter 3.
-[7
+[8
 
-] [8]
+] [9]
 Chapter 4.
-[9
+[10
 
-] [10]
+] [11]
 Chapter 5.
-[11
+[12
 
-] [12] [13]
+] [13] [14]
 Chapter 6.
 LaTeX Font Info:    Trying to load font information for OT1+pcr on input line 2
-81.
+90.
 (C:\Users\vishn\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ot1pcr.fd
 File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
 )
-Overfull \hbox (26.80846pt too wide) in paragraph at lines 294--294
+Overfull \hbox (26.80846pt too wide) in paragraph at lines 303--303
 []        \OT1/pcr/m/n/12 db.collection(collections.USER_DETAILS).insertOne(use
 r)[] 
  []
 
-[14
+[15
 
 {C:/Users/vishn/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc}]
-Overfull \hbox (70.00844pt too wide) in paragraph at lines 328--328
+Overfull \hbox (70.00844pt too wide) in paragraph at lines 337--337
 []                    \OT1/pcr/m/n/12 user.password, data.password, (err, isMat
 ch) => {[] 
  []
 
-[15] [16]
-Overfull \hbox (12.40846pt too wide) in paragraph at lines 389--389
+[16] [17]
+Overfull \hbox (12.40846pt too wide) in paragraph at lines 398--398
 []            \OT1/pcr/m/n/12 hmac.update(details['payment[razorpay_order_id]']
 [] 
  []
 
 
-Overfull \hbox (5.20847pt too wide) in paragraph at lines 389--389
+Overfull \hbox (5.20847pt too wide) in paragraph at lines 398--398
 []            \OT1/pcr/m/n/12 + '|' + details['payment[razorpay_payment_id]'])[
 ] 
  []
 
 
-Overfull \hbox (12.40846pt too wide) in paragraph at lines 389--389
+Overfull \hbox (12.40846pt too wide) in paragraph at lines 398--398
 []            \OT1/pcr/m/n/12 if(hmac==details['payment[razorpay_signature]']){
 [] 
  []
 
 
-Overfull \hbox (12.40846pt too wide) in paragraph at lines 416--416
+Overfull \hbox (12.40846pt too wide) in paragraph at lines 425--425
 []                \OT1/pcr/m/n/12 subject: "NBA Accreditation", // Subject line
 [] 
  []
 
 
-Overfull \hbox (19.60846pt too wide) in paragraph at lines 416--416
+Overfull \hbox (19.60846pt too wide) in paragraph at lines 425--425
 []              \OT1/pcr/m/n/12 console.log("Message sent: %s", info.messageId)
 ;[] 
  []
 
-[17]
-Overfull \hbox (70.00844pt too wide) in paragraph at lines 433--433
+[18]
+Overfull \hbox (70.00844pt too wide) in paragraph at lines 442--442
 []            \OT1/pcr/m/n/12 let user2 = await db.collection(collections.USER_
 DETAILS)[] 
  []
 
-[18] [19]
+[19] [20]
 Chapter 7.
-<accredify0.png, id=344, 1426.57968pt x 639.13782pt>
+<accredify0.png, id=355, 1426.57968pt x 639.13782pt>
 File: accredify0.png Graphic file (type png)
 <use accredify0.png>
-Package pdftex.def Info: accredify0.png  used on input line 464.
+Package pdftex.def Info: accredify0.png  used on input line 473.
 (pdftex.def)             Requested size: 298.75264pt x 133.84256pt.
-<accredify1.png, id=345, 1445.4pt x 642.14906pt>
+<accredify1.png, id=356, 1445.4pt x 642.14906pt>
 File: accredify1.png Graphic file (type png)
 <use accredify1.png>
-Package pdftex.def Info: accredify1.png  used on input line 474.
+Package pdftex.def Info: accredify1.png  used on input line 483.
 (pdftex.def)             Requested size: 298.75264pt x 132.72902pt.
-[20
+[21
 
  <./accredify0.png> <./accredify1.png>]
-<accredify2.png, id=352, 1927.2pt x 1084.05pt>
+<accredify2.png, id=363, 1927.2pt x 1084.05pt>
 File: accredify2.png Graphic file (type png)
 <use accredify2.png>
-Package pdftex.def Info: accredify2.png  used on input line 483.
+Package pdftex.def Info: accredify2.png  used on input line 492.
 (pdftex.def)             Requested size: 298.75264pt x 168.04256pt.
-<accredify3.png, id=353, 1927.2pt x 1084.05pt>
+<accredify3.png, id=364, 1927.2pt x 1084.05pt>
 File: accredify3.png Graphic file (type png)
 <use accredify3.png>
-Package pdftex.def Info: accredify3.png  used on input line 492.
+Package pdftex.def Info: accredify3.png  used on input line 501.
 (pdftex.def)             Requested size: 298.75264pt x 168.04256pt.
-<accredify4.png, id=354, 1927.2pt x 1084.05pt>
+<accredify4.png, id=365, 1927.2pt x 1084.05pt>
 File: accredify4.png Graphic file (type png)
 <use accredify4.png>
-Package pdftex.def Info: accredify4.png  used on input line 501.
+Package pdftex.def Info: accredify4.png  used on input line 510.
 (pdftex.def)             Requested size: 298.75264pt x 168.04256pt.
- [21 <./accredify2.png> <./accredify3.png>]
-<accredify6.png, id=361, 1927.2pt x 1084.05pt>
+ [22 <./accredify2.png> <./accredify3.png>]
+<accredify6.png, id=372, 1927.2pt x 1084.05pt>
 File: accredify6.png Graphic file (type png)
 <use accredify6.png>
-Package pdftex.def Info: accredify6.png  used on input line 509.
+Package pdftex.def Info: accredify6.png  used on input line 518.
 (pdftex.def)             Requested size: 298.75264pt x 168.04256pt.
-<accredify8.png, id=362, 1927.2pt x 1084.05pt>
+<accredify8.png, id=373, 1927.2pt x 1084.05pt>
 File: accredify8.png Graphic file (type png)
 <use accredify8.png>
-Package pdftex.def Info: accredify8.png  used on input line 518.
+Package pdftex.def Info: accredify8.png  used on input line 527.
 (pdftex.def)             Requested size: 298.75264pt x 168.04256pt.
-<accredify10.png, id=363, 431.36156pt x 329.73187pt>
+<accredify10.png, id=374, 431.36156pt x 329.73187pt>
 File: accredify10.png Graphic file (type png)
 <use accredify10.png>
-Package pdftex.def Info: accredify10.png  used on input line 524.
+Package pdftex.def Info: accredify10.png  used on input line 533.
 (pdftex.def)             Requested size: 298.75264pt x 228.37054pt.
 
 
@@ -691,25 +704,25 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<accredify11.png, id=364, 1927.2pt x 1084.05pt>
+<accredify11.png, id=375, 1927.2pt x 1084.05pt>
 File: accredify11.png Graphic file (type png)
 <use accredify11.png>
-Package pdftex.def Info: accredify11.png  used on input line 533.
+Package pdftex.def Info: accredify11.png  used on input line 542.
 (pdftex.def)             Requested size: 298.75264pt x 168.04256pt.
-<accredify12.png, id=365, 1927.2pt x 1084.05pt>
+<accredify12.png, id=376, 1927.2pt x 1084.05pt>
 File: accredify12.png Graphic file (type png)
 <use accredify12.png>
-Package pdftex.def Info: accredify12.png  used on input line 539.
+Package pdftex.def Info: accredify12.png  used on input line 548.
 (pdftex.def)             Requested size: 298.75264pt x 168.04256pt.
-<accredify13.png, id=366, 1927.2pt x 1084.05pt>
+<accredify13.png, id=377, 1927.2pt x 1084.05pt>
 File: accredify13.png Graphic file (type png)
 <use accredify13.png>
-Package pdftex.def Info: accredify13.png  used on input line 545.
+Package pdftex.def Info: accredify13.png  used on input line 554.
 (pdftex.def)             Requested size: 298.75264pt x 168.04256pt.
-<accredify14.png, id=367, 1927.2pt x 1084.05pt>
+<accredify14.png, id=378, 1927.2pt x 1084.05pt>
 File: accredify14.png Graphic file (type png)
 <use accredify14.png>
-Package pdftex.def Info: accredify14.png  used on input line 551.
+Package pdftex.def Info: accredify14.png  used on input line 560.
 (pdftex.def)             Requested size: 298.75264pt x 168.04256pt.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
@@ -723,39 +736,39 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[22 <./accredify4.png> <./accredify6.png>] [23 <./accredify8.png> <./accredify1
-0.png> <./accredify11.png>] [24 <./accredify12.png> <./accredify13.png> <./accr
+[23 <./accredify4.png> <./accredify6.png>] [24 <./accredify8.png> <./accredify1
+0.png> <./accredify11.png>] [25 <./accredify12.png> <./accredify13.png> <./accr
 edify14.png>]
 Chapter 8.
-[25
+[26
 
 ]
 Chapter 9.
 
-Overfull \hbox (5.78354pt too wide) in paragraph at lines 570--572
+Overfull \hbox (5.78354pt too wide) in paragraph at lines 579--581
 []$\OT1/pcr/m/n/12 https : / / link . springer . com / book / 10 . 1007 / 978-[
 ]1-[]4842-[]4391-[]6$[] 
  []
 
 
-Overfull \hbox (25.38353pt too wide) in paragraph at lines 574--576
+Overfull \hbox (25.38353pt too wide) in paragraph at lines 583--585
 []$\OT1/pcr/m/n/12 https : / / www . annalsofrscb . ro / index . php / journal 
 / article / view /
  []
 
 
-Overfull \hbox (39.78352pt too wide) in paragraph at lines 577--579
+Overfull \hbox (39.78352pt too wide) in paragraph at lines 586--588
 []$\OT1/pcr/m/n/12 https : / / www . tandfonline . com / doi / abs / 10 . 1080 
 / 03043790903497294$[] 
  []
 
 
-Overfull \hbox (25.38353pt too wide) in paragraph at lines 584--587
+Overfull \hbox (25.38353pt too wide) in paragraph at lines 593--596
 []$\OT1/pcr/m/n/12 https : / / citeseerx . ist . psu . edu / document ? repid =
  rep1 & type = pdf &
  []
 
-[26
+[27
 
 ] (ssgnn.aux)
 
@@ -769,8 +782,8 @@ Package rerunfilecheck Info: File `ssgnn.out' has not changed.
 (rerunfilecheck)             Checksum: 3129C8A47A8D4F98A3202123F0B0D11E;6795.
  ) 
 Here is how much of TeX's memory you used:
- 11674 strings out of 476331
- 184535 string characters out of 5787765
+ 11675 strings out of 476331
+ 184512 string characters out of 5787765
  1863660 words of memory out of 5000000
  31871 multiletter control sequences out of 15000+600000
  520040 words of font info for 59 fonts, out of 8000000 for 9000
@@ -784,9 +797,9 @@ ype1/public/amsfonts/cm/cmr10.pfb><C:/Users/vishn/AppData/Local/Programs/MiKTeX
 /fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/vishn/AppData/Local/Program
 s/MiKTeX/fonts/type1/public/amsfonts/cm/cmr9.pfb><C:/Users/vishn/AppData/Local/
 Programs/MiKTeX/fonts/type1/urw/courier/ucrr8a.pfb>
-Output written on ssgnn.pdf (29 pages, 2528758 bytes).
+Output written on ssgnn.pdf (32 pages, 2529899 bytes).
 PDF statistics:
- 454 PDF objects out of 1000 (max. 8388607)
- 77 named destinations out of 1000 (max. 500000)
+ 465 PDF objects out of 1000 (max. 8388607)
+ 78 named destinations out of 1000 (max. 500000)
  450 words of extra memory for PDF output out of 10000 (max. 10000000)
 
