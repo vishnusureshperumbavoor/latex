@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.4) (preloaded format=pdflatex 2023.5.20)  23 MAY 2023 10:28
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.4) (preloaded format=pdflatex 2023.5.20)  26 MAY 2023 10:07
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -375,37 +375,27 @@ LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <20> not available
 LaTeX Font Warning: Font shape `OT1/cmr/bx/n' in size <20> not available
 (Font)              size <20.74> substituted on input line 60.
 
-
-Overfull \hbox (52.99724pt too wide) in paragraph at lines 67--67
- []\OT1/cmr/bx/n/12 vishnusureshperumbavoor@gmail.com 
- []
-
-
-Overfull \hbox (87.79028pt too wide) in paragraph at lines 62--82
-$[]$ $[]$ 
- []
-
 [1
 
 {C:/Users/vishn/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map} <./logo.png>]
 File: logo.png Graphic file (type png)
 <use logo.png>
-Package pdftex.def Info: logo.png  used on input line 98.
+Package pdftex.def Info: logo.png  used on input line 82.
 (pdftex.def)             Requested size: 128.0387pt x 125.75914pt.
-LaTeX Font Info:    Calculating math sizes for size <14> on input line 106.
+LaTeX Font Info:    Calculating math sizes for size <14> on input line 90.
 
-Overfull \hbox (5.54112pt too wide) in paragraph at lines 106--107
-\OT1/cmr/m/n/14.4 and Sem-i-nar in $6[]$ semester Com-puter En-gi-neer-ing at G
-ovt.Polytechnic
+Overfull \hbox (28.7613pt too wide) in paragraph at lines 90--91
+\OT1/cmr/m/n/14.4 semester Com-puter En-gi-neer-ing at Govt.Polytechnic Col-leg
+e,Perumbavoor. 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 106--107
+Underfull \hbox (badness 10000) in paragraph at lines 90--91
 
  []
 
 
-Overfull \hbox (88.49025pt too wide) in paragraph at lines 136--156
+Overfull \hbox (88.49025pt too wide) in paragraph at lines 118--138
 $[]$ $[]$ 
  []
 
@@ -418,7 +408,7 @@ $[]$ $[]$
 ]
 Chapter 1.
 
-Overfull \hbox (5.56064pt too wide) in paragraph at lines 199--200
+Overfull \hbox (5.56064pt too wide) in paragraph at lines 181--182
 \OT1/cmr/m/n/12 nodes or edges, which can be ex-pen-sive and time-consuming to 
 ob-tain. Self-supervised
  []
@@ -438,12 +428,12 @@ Chapter 4.
 <ssgnn1.png, id=35, 603.25375pt x 250.9375pt>
 File: ssgnn1.png Graphic file (type png)
 <use ssgnn1.png>
-Package pdftex.def Info: ssgnn1.png  used on input line 239.
+Package pdftex.def Info: ssgnn1.png  used on input line 221.
 (pdftex.def)             Requested size: 298.75264pt x 124.26996pt.
 <ssgnn2.png, id=36, 1027.84pt x 309.155pt>
 File: ssgnn2.png Graphic file (type png)
 <use ssgnn2.png>
-Package pdftex.def Info: ssgnn2.png  used on input line 247.
+Package pdftex.def Info: ssgnn2.png  used on input line 229.
 (pdftex.def)             Requested size: 298.75264pt x 89.86021pt.
 [5
 
@@ -451,19 +441,19 @@ Package pdftex.def Info: ssgnn2.png  used on input line 247.
 <ssgnn3.png, id=40, 1027.84pt x 383.4325pt>
 File: ssgnn3.png Graphic file (type png)
 <use ssgnn3.png>
-Package pdftex.def Info: ssgnn3.png  used on input line 255.
+Package pdftex.def Info: ssgnn3.png  used on input line 237.
 (pdftex.def)             Requested size: 298.75264pt x 111.45pt.
  [6 <./ssgnn2.png> <./ssgnn3.png>]
 Chapter 5.
 <ssgnn4.png, id=47, 618.31pt x 172.645pt>
 File: ssgnn4.png Graphic file (type png)
 <use ssgnn4.png>
-Package pdftex.def Info: ssgnn4.png  used on input line 273.
+Package pdftex.def Info: ssgnn4.png  used on input line 255.
 (pdftex.def)             Requested size: 298.75264pt x 83.41922pt.
 <ssgnn5.png, id=48, 597.23125pt x 136.51pt>
 File: ssgnn5.png Graphic file (type png)
 <use ssgnn5.png>
-Package pdftex.def Info: ssgnn5.png  used on input line 281.
+Package pdftex.def Info: ssgnn5.png  used on input line 263.
 (pdftex.def)             Requested size: 298.75264pt x 68.28607pt.
 [7
 
@@ -478,13 +468,13 @@ Chapter 7.
 ]
 Chapter 8.
 
-Overfull \hbox (42.77078pt too wide) in paragraph at lines 329--330
+Overfull \hbox (42.77078pt too wide) in paragraph at lines 311--312
 []\OT1/cmr/m/n/12 https://proceedings.neurips.cc/paper/2021/hash/bf499a12e998d1
 78afd964adf64a60cb-
  []
 
 
-Overfull \hbox (51.90958pt too wide) in paragraph at lines 333--334
+Overfull \hbox (51.90958pt too wide) in paragraph at lines 315--316
 []\OT1/cmr/m/n/12 https://proceedings.neurips.cc/paper/2021/hash/00ac8ed3b4327b
 dd4ebbebcb2ba10a00-
  []
@@ -501,11 +491,11 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 5341 strings out of 476331
- 86027 string characters out of 5787765
+ 5338 strings out of 476331
+ 85926 string characters out of 5787765
  1856660 words of memory out of 5000000
- 25703 multiletter control sequences out of 15000+600000
- 520365 words of font info for 60 fonts, out of 8000000 for 9000
+ 25700 multiletter control sequences out of 15000+600000
+ 519525 words of font info for 57 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  57i,12n,62p,958b,322s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\vishn\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm
@@ -515,7 +505,7 @@ ic/amsfonts/cm/cmmi10.pfb><C:/Users/vishn/AppData/Local/Programs/MiKTeX/fonts/t
 ype1/public/amsfonts/cm/cmr10.pfb><C:/Users/vishn/AppData/Local/Programs/MiKTeX
 /fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/vishn/AppData/Local/Program
 s/MiKTeX/fonts/type1/public/amsfonts/cm/cmr9.pfb>
-Output written on ssgnn.pdf (16 pages, 494642 bytes).
+Output written on ssgnn.pdf (16 pages, 493756 bytes).
 PDF statistics:
  94 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)

@@ -1,0 +1,47 @@
+\contentsline {chapter}{\numberline {1}Introduction}{3}{chapter.1}%
+\contentsline {paragraph}{}{3}{paragraph*.2}%
+\contentsline {chapter}{\numberline {2}Lack of Efficient Job Matching}{4}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Manual and Time-Consuming Process}{4}{section.2.1}%
+\contentsline {section}{\numberline {2.2}Limited Access to Job Opportunities}{4}{section.2.2}%
+\contentsline {section}{\numberline {2.3}Ineffective Communication and Tracking}{4}{section.2.3}%
+\contentsline {section}{\numberline {2.4}Data Security and Privacy Concerns}{4}{section.2.4}%
+\contentsline {section}{\numberline {2.5}Complex and Non-Intuitive User Interfaces}{5}{section.2.5}%
+\contentsline {chapter}{\numberline {3}Solutions}{6}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Advanced Job Matching Algorithm}{6}{section.3.1}%
+\contentsline {section}{\numberline {3.2}Broad Job Opportunity Reach}{6}{section.3.2}%
+\contentsline {section}{\numberline {3.3}Streamlined Communication and Tracking}{6}{section.3.3}%
+\contentsline {section}{\numberline {3.4}Data Security and Privacy Measures}{7}{section.3.4}%
+\contentsline {section}{\numberline {3.5}Intuitive User Interface Design}{7}{section.3.5}%
+\contentsline {section}{\numberline {3.6} Continuous Improvement and Feedback Integration}{7}{section.3.6}%
+\contentsline {chapter}{\numberline {4}Requirement Analysis}{8}{chapter.4}%
+\contentsline {section}{\numberline {4.1}User Registration and Profile Creation}{8}{section.4.1}%
+\contentsline {section}{\numberline {4.2}Job Search and Filtering}{8}{section.4.2}%
+\contentsline {section}{\numberline {4.3}Job Posting and Management}{9}{section.4.3}%
+\contentsline {section}{\numberline {4.4}Application Submission and Management}{9}{section.4.4}%
+\contentsline {section}{\numberline {4.5}Communication and Interaction}{9}{section.4.5}%
+\contentsline {section}{\numberline {4.6}User Experience and Interface Design}{9}{section.4.6}%
+\contentsline {section}{\numberline {4.7}Data Security and Privacy}{10}{section.4.7}%
+\contentsline {chapter}{\numberline {5}Technologies used}{11}{chapter.5}%
+\contentsline {section}{\numberline {5.1}HTML}{11}{section.5.1}%
+\contentsline {section}{\numberline {5.2}CSS}{11}{section.5.2}%
+\contentsline {section}{\numberline {5.3}JavaScript}{12}{section.5.3}%
+\contentsline {section}{\numberline {5.4}PHP}{12}{section.5.4}%
+\contentsline {section}{\numberline {5.5}MySQL}{12}{section.5.5}%
+\contentsline {section}{\numberline {5.6}XAMPP}{13}{section.5.6}%
+\contentsline {chapter}{\numberline {6}Code}{14}{chapter.6}%
+\contentsline {section}{\numberline {6.1}Database connection}{14}{section.6.1}%
+\contentsline {section}{\numberline {6.2}Registration}{14}{section.6.2}%
+\contentsline {section}{\numberline {6.3}Login}{15}{section.6.3}%
+\contentsline {section}{\numberline {6.4}Password Validation}{15}{section.6.4}%
+\contentsline {section}{\numberline {6.5}Data fetch}{16}{section.6.5}%
+\contentsline {chapter}{\numberline {7}Screenshots}{18}{chapter.7}%
+\contentsline {section}{\numberline {7.1}Home Page}{18}{section.7.1}%
+\contentsline {section}{\numberline {7.2}Login}{18}{section.7.2}%
+\contentsline {section}{\numberline {7.3}User Registration}{19}{section.7.3}%
+\contentsline {section}{\numberline {7.4}Company Registration}{19}{section.7.4}%
+\contentsline {section}{\numberline {7.5}Company Login}{19}{section.7.5}%
+\contentsline {section}{\numberline {7.6}Company Key}{19}{section.7.6}%
+\contentsline {section}{\numberline {7.7}Enter Available Jobs}{20}{section.7.7}%
+\contentsline {section}{\numberline {7.8}Database}{20}{section.7.8}%
+\contentsline {chapter}{\numberline {8}Conclusion}{22}{chapter.8}%
+\contentsline {chapter}{\numberline {9}References}{23}{chapter.9}%
