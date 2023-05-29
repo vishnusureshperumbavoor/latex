@@ -1,9 +1,9 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.4) (preloaded format=pdflatex 2023.5.20)  23 MAY 2023 11:56
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.4) (preloaded format=pdflatex 2023.5.20)  29 MAY 2023 23:24
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**./ssgnn.tex
-(ssgnn.tex
+**./eyephone.tex
+(eyephone.tex
 LaTeX2e <2022-11-01> patch level 1
 L3 programming layer <2023-03-30>
 (C:\Users\vishn\AppData\Local\Programs\MiKTeX\tex/latex/base\report.cls
@@ -260,27 +260,27 @@ tex.def
 File: l3backend-pdftex.def 2023-03-30 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count284
 \l__pdf_internal_box=\box58
-) (ssgnn.aux
+) (eyephone.aux
 
 LaTeX Warning: Label `fig:logo.png' multiply defined.
 
 )
-\openout1 = `ssgnn.aux'.
+\openout1 = `eyephone.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 40.
-LaTeX Font Info:    ... okay on input line 40.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 40.
-LaTeX Font Info:    ... okay on input line 40.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 40.
-LaTeX Font Info:    ... okay on input line 40.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 40.
-LaTeX Font Info:    ... okay on input line 40.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 40.
-LaTeX Font Info:    ... okay on input line 40.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 40.
-LaTeX Font Info:    ... okay on input line 40.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 40.
-LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -336,62 +336,56 @@ ii
 
 
 LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <22> not available
-(Font)              size <20.74> substituted on input line 44.
+(Font)              size <20.74> substituted on input line 43.
 
 
 LaTeX Font Warning: Font shape `OT1/cmr/bx/n' in size <22> not available
-(Font)              size <20.74> substituted on input line 44.
+(Font)              size <20.74> substituted on input line 43.
 
 
 LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <15> not available
-(Font)              size <14.4> substituted on input line 45.
+(Font)              size <14.4> substituted on input line 44.
 
 
 LaTeX Font Warning: Font shape `OT1/cmr/bx/n' in size <15> not available
-(Font)              size <14.4> substituted on input line 46.
+(Font)              size <14.4> substituted on input line 45.
 
 <logo.png, id=1, 60.7068pt x 59.62276pt>
 File: logo.png Graphic file (type png)
 <use logo.png>
-Package pdftex.def Info: logo.png  used on input line 50.
+Package pdftex.def Info: logo.png  used on input line 49.
 (pdftex.def)             Requested size: 213.39568pt x 209.59706pt.
 
 LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <20> not available
-(Font)              size <20.74> substituted on input line 59.
+(Font)              size <20.74> substituted on input line 58.
 
 
 LaTeX Font Warning: Font shape `OT1/cmr/bx/n' in size <20> not available
-(Font)              size <20.74> substituted on input line 60.
+(Font)              size <20.74> substituted on input line 58.
 
 [1
 
 {C:/Users/vishn/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map} <./logo.png>]
 File: logo.png Graphic file (type png)
 <use logo.png>
-Package pdftex.def Info: logo.png  used on input line 84.
+Package pdftex.def Info: logo.png  used on input line 82.
 (pdftex.def)             Requested size: 128.0387pt x 125.75914pt.
-LaTeX Font Info:    Calculating math sizes for size <14> on input line 92.
+LaTeX Font Info:    Calculating math sizes for size <14> on input line 90.
 
-Overfull \hbox (1.66978pt too wide) in paragraph at lines 92--93
-\OT1/cmr/m/n/14.4 This is to cer-tify that the sem-i-nar re-port en-ti-tled \OT
-1/cmr/bx/n/14.4 Syn-chronous Chips
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 92--93
+Underfull \hbox (badness 10000) in paragraph at lines 90--91
 
  []
 
 
-Overfull \hbox (88.49025pt too wide) in paragraph at lines 119--139
+Overfull \hbox (88.49025pt too wide) in paragraph at lines 117--137
 $[]$ $[]$ 
  []
 
-[2] [1] [1] (ssgnn.toc [1
+[2] [1] [1] (eyephone.toc [1
 
 ])
 \tf@toc=\write3
-\openout3 = `ssgnn.toc'.
+\openout3 = `eyephone.toc'.
 
  [2]
 Chapter 1.
@@ -401,31 +395,53 @@ Chapter 1.
 Chapter 2.
 [4
 
-] [5]
+]
+<eyephone1.jpg, id=34, 259.97125pt x 194.7275pt>
+File: eyephone1.jpg Graphic file (type jpg)
+<use eyephone1.jpg>
+Package pdftex.def Info: eyephone1.jpg  used on input line 210.
+(pdftex.def)             Requested size: 298.75264pt x 223.77737pt.
+ [5 <./eyephone1.jpg>]
 Chapter 3.
 [6
 
 ] [7]
 Chapter 4.
+<eyephone2.jpg, id=45, 276.03125pt x 183.68625pt>
+File: eyephone2.jpg Graphic file (type jpg)
+<use eyephone2.jpg>
+Package pdftex.def Info: eyephone2.jpg  used on input line 236.
+(pdftex.def)             Requested size: 298.75264pt x 198.82661pt.
 [8
 
-] [9]
+ <./eyephone2.jpg>] [9]
 Chapter 5.
 [10
 
 ] [11]
 Chapter 6.
+<eyephone0.jpg, id=59, 277.035pt x 183.68625pt>
+File: eyephone0.jpg Graphic file (type jpg)
+<use eyephone0.jpg>
+Package pdftex.def Info: eyephone0.jpg  used on input line 277.
+(pdftex.def)             Requested size: 298.75264pt x 198.08667pt.
 [12
 
-] [13]
+ <./eyephone0.jpg>] [13]
 Chapter 7.
 [14
 
 ]
 Chapter 8.
+
+Overfull \hbox (24.4932pt too wide) in paragraph at lines 307--308
+[]\OT1/cmr/m/n/12 https://www.spiedigitallibrary.org/conference-proceedings-of-
+spie/1256/0000/The-
+ []
+
 [15
 
-] (ssgnn.aux)
+] (eyephone.aux)
 
 LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 1.26pt have occurred.
@@ -435,22 +451,22 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 5298 strings out of 476331
- 85241 string characters out of 5787765
+ 5320 strings out of 476331
+ 85602 string characters out of 5787765
  1858660 words of memory out of 5000000
- 25666 multiletter control sequences out of 15000+600000
+ 25684 multiletter control sequences out of 15000+600000
  519188 words of font info for 56 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 57i,12n,62p,567b,322s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 57i,12n,62p,570b,322s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/vishn/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/
 cmbx12.pfb><C:/Users/vishn/AppData/Local/Programs/MiKTeX/fonts/type1/public/ams
 fonts/cm/cmmi10.pfb><C:/Users/vishn/AppData/Local/Programs/MiKTeX/fonts/type1/p
 ublic/amsfonts/cm/cmr10.pfb><C:/Users/vishn/AppData/Local/Programs/MiKTeX/fonts
 /type1/public/amsfonts/cm/cmr12.pfb><C:/Users/vishn/AppData/Local/Programs/MiKT
 eX/fonts/type1/public/amsfonts/cm/cmr9.pfb>
-Output written on ssgnn.pdf (19 pages, 244645 bytes).
+Output written on eyephone.pdf (19 pages, 265013 bytes).
 PDF statistics:
- 92 PDF objects out of 1000 (max. 8388607)
+ 95 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 6 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 21 words of extra memory for PDF output out of 10000 (max. 10000000)
 
