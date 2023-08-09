@@ -48,7 +48,6 @@
 	\centering
 	\hspace{21pt}
 	\includegraphics[width=.50\linewidth]{logo.png}
-	\label{fig:logo.png}
 \end{figure}
 
 \fontsize{14}{25}\selectfont{\textbf{Semester - VI}}\\
@@ -80,7 +79,6 @@ DEPARTMENT OF COMPUTER ENGINEERING}\\[1.5cm]
 \centering
 	\hspace{.5cm}
 \includegraphics[width=0.3\linewidth]{logo.png}
-	\label{fig:logo.png}
 \end{figure}
 
      
@@ -219,7 +217,6 @@ This can be considered as a basic strategy to be followed in any self-supervised
 	\centering
 	\hspace{21pt}
 	\includegraphics[width=.70\linewidth]{ssgnn1.png}
-	\label{fig:logo.png}
 \end{figure}
 \section{Joint learning}
 If any specific pretext-task and downstream task is known, in such a situation, we can train the encoder with the prediction head. This strategy comes under multitask learning and jointly training the encoder and prediction head makes it joint learning. The below image can be a representation of this type of learning strategy.
@@ -227,7 +224,6 @@ If any specific pretext-task and downstream task is known, in such a situation, 
 	\centering
 	\hspace{21pt}
 	\includegraphics[width=.70\linewidth]{ssgnn2.png}
-	\label{fig:he.jpg}
 \end{figure}
 \section{Unsupervised Representation Learning}
 This strategy is pretty similar to the pretraining and fine-tuning strategy because the first step of the training is similar in both strategies. But here in the unsupervised representation learning strategy, we make the pre-trained parameters frozen so that the model can be trained on the frozen representation with downstream tasks only. The image below can be a representation of learning using this strategy.
@@ -235,7 +231,6 @@ This strategy is pretty similar to the pretraining and fine-tuning strategy beca
 	\centering
 	\hspace{21pt}
 	\includegraphics[width=.70\linewidth]{ssgnn3.png}
-	\label{fig:he.jpg}
 \end{figure}
 
 Here in this section, we have seen what are three major strategies which can be followed to apply self-supervised learning on graph data. Considering the older work in this field, we can find there are specific categories of work performed using the graph data under the self-supervised learning settings. In the next section, we will discuss the different categories of old methods.
@@ -253,7 +248,6 @@ For example, on a given graph we can apply different transformations to get mult
 	\centering
 	\hspace{21pt}
 	\includegraphics[width=.70\linewidth]{ssgnn4.png}
-	\label{fig:he.jpg}
 \end{figure}
 \section{Generative learning}
 The generative methods are based on the traditional generative models where embeddings that are holding rich information can be treated as natural self-supervision. In various studies we find that the prediction head works as a graph decoder; this decoder can also be used for graph reconstruction. A sum-up view of this method can be represented by the following image.
@@ -261,7 +255,6 @@ The generative methods are based on the traditional generative models where embe
 	\centering
 	\hspace{21pt}
 	\includegraphics[width=.70\linewidth]{ssgnn5.png}
-	\label{fig:he.jpg}
 \end{figure}
 
 The works related to generative methods focus on the information embedded in the graph, generally based on tasks such as reconstruction, which helps in exploiting the properties of graph data as self-supervision signals.
